@@ -37,8 +37,8 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "doctrine/common": ">=2.3-dev,<2.5-dev",
-        "doctrine/data-fixtures": "1.*",
+        "jscrobinson/doctrine-common": ">=2.3-dev,<2.5-dev",
+        "jscrobinson/doctrine-data-fixtures": "1.*",
         "symfony/console": ">=2.0.13",
         "zendframework/zendframework": "2.*"
     },
